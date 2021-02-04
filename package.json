@@ -1,0 +1,13 @@
+{
+  "name": "pui-tool-pi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js --experimental-modules"
+  },
+  "author": "Takuro Fukamizu <takuro.f.1987@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "arduino-cli": "^0.37.0"
+  }
+}
