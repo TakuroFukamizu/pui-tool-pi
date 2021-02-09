@@ -8,6 +8,9 @@
   "author": "Takuro Fukamizu <takuro.f.1987@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "arduino-cli": "^0.37.0"
+    "arduino-cli": "^0.37.0",
+    "connect": "^3.7.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "serve-static": "^1.14.1"
   }
 }
